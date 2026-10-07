@@ -1,0 +1,13 @@
+{
+    "versionCode": 9,
+    "versionName": "1.0.1",
+    "apkUrl": "https://你的地址/ahuangtv.apk",
+    "apk32Url": "https://你的地址/ahuangtv.apk",
+    "apk64Url": "https://你的地址/ahuangtv64.apk",
+    "apkX86Url": "https://你的地址/ahuangtvX86.apk",
+    "sha256": "你的APK的sha256",
+    "sha25632": "同上",
+    "sha25664": "64位包的sha256",
+    "sha256X86": "x86包的sha256",
+    "releaseNotes": "更新说明"
+}
